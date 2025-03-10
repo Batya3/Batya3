@@ -11,9 +11,6 @@ CCNA, Kubernetes и Talos OS.
 💬 **Ask me about**  
 Сети, DevOps и автоматизация.  
 
-⚡ **Fun fact**  
-Хотел стать сетевиком, ушел в DevOps!  
-
 
 
 ## 🌐 Socials:
